@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:137.0) Gecko/20100101 Firefox/137.0" version="27.0.1">
   <diagram name="第 1 页" id="yNU4Lb6sBdI4Ov-rP1gr">
-    <mxGraphModel dx="2253" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2015" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -483,6 +483,15 @@
         <mxCell id="URJfeCyktl2PKpRAeFNq-126" value="组装配置返回" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="570" y="1058" width="92" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="JS7FD1gASGl4HiB3Fx5F-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="URJfeCyktl2PKpRAeFNq-129" target="JS7FD1gASGl4HiB3Fx5F-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="827" y="1200" />
+              <mxPoint x="870" y="1200" />
+              <mxPoint x="870" y="1290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="URJfeCyktl2PKpRAeFNq-129" value="业务端&lt;br&gt;判断配置版本" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="735" y="982" width="92" height="40" as="geometry" />
         </mxCell>
@@ -749,6 +758,9 @@
         </mxCell>
         <mxCell id="JS7FD1gASGl4HiB3Fx5F-1" value="这里确定离线是还是在线都是在十分位的时候进行设置" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1000" y="580" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JS7FD1gASGl4HiB3Fx5F-2" value="这里探针吧配置传上来，平台去对比数据库的防护策略是否一致，不一致的信息会提取出来，然后下发下去" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1111" y="1210" width="130" height="162" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
