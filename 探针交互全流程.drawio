@@ -747,6 +747,9 @@
         <mxCell id="GQVgTyaiVdAAS46jQ995-1" value="查task_dict获取任务的超时时间是多少，大于则设置为超时，然后重新下发任务" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="1111" y="1033" width="130" height="162" as="geometry" />
         </mxCell>
+        <mxCell id="JS7FD1gASGl4HiB3Fx5F-1" value="这里确定离线是还是在线都是在十分位的时候进行设置" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="580" width="130" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
