@@ -483,12 +483,15 @@
         <mxCell id="URJfeCyktl2PKpRAeFNq-126" value="组装配置返回" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="570" y="1058" width="92" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JS7FD1gASGl4HiB3Fx5F-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="URJfeCyktl2PKpRAeFNq-129" target="JS7FD1gASGl4HiB3Fx5F-2">
+        <mxCell id="JS7FD1gASGl4HiB3Fx5F-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;entryX=0.024;entryY=0.633;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="JS7FD1gASGl4HiB3Fx5F-2">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="794" y="1016" as="sourcePoint" />
+            <mxPoint x="1078" y="1304" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="827" y="1200" />
-              <mxPoint x="870" y="1200" />
-              <mxPoint x="870" y="1290" />
+              <mxPoint x="794" y="1260" />
+              <mxPoint x="1079" y="1260" />
+              <mxPoint x="1079" y="1304" />
+              <mxPoint x="1114" y="1304" />
             </Array>
           </mxGeometry>
         </mxCell>
